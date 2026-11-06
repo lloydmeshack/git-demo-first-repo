@@ -4,5 +4,7 @@ different industries...
     tech
     food 
     education
+    Land
+    entertainment
 
     
